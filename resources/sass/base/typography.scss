@@ -1,0 +1,54 @@
+.title-header{
+    text-align: center;
+    .upper-span{
+        display: block;
+        letter-spacing: 10px;
+        text-transform: uppercase;
+        color: #fff;
+        font-size: 45px;
+
+        margin-bottom: 10px;
+
+    }
+    .bottom-span{
+        display: block;
+        letter-spacing: 6px;
+        color: #fff;
+        font-size: 25px;
+    }
+}
+
+
+
+.h2-title{
+    background-image: linear-gradient(rgba($main-color,1),rgba($secondary-color,1),rgba($third-color,1));
+    display: block;
+    -webkit-background-clip: text;
+    color: transparent;
+    text-align: center;
+    margin: 20px 0;
+
+}
+.h3-heading{
+    font-size: 22px;
+    margin-bottom: 10px;
+}
+.moments-secondary-heading{
+    color: #fff;
+    font-size: 25px;
+    text-align: center;
+    letter-spacing: 5px;
+    margin-bottom: 40px;
+}
+
+h3.memory-title{
+    font-size: 20px;
+    text-transform: uppercase;
+    letter-spacing: 6px;
+    margin-bottom: 10px;
+    margin-top: 20px;
+    text-align: center;
+
+}
+
+
